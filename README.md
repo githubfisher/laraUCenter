@@ -1,4 +1,3 @@
-# laraSSO
-laravel5.x + Single Sign On
-
-laraSSO is an project building in laravel5 for web-SSO.
+# laraUCenter
+  laraUCenter is an project for Single Sign On building in laravel5.3 .
+  Most project have been built with some sub applictions. Users visit one of applictions ,they login. When they visit others ,then they shuld login again. 
